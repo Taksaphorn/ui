@@ -1,0 +1,54 @@
+.RequestUpgradeUser {
+    font-family: Arial;
+}
+
+.user-department {
+    font-family: Arial;
+    text-align: center;
+}
+
+.list2 {
+    text-align: left;
+    width: 252px;
+    height: 31px;
+    margin-bottom: 40px;
+    border-radius: 4px;
+    color: gray;
+    border-color: rgba(160, 154, 154, 1);
+}
+
+.send-button {
+    font-family: Arial;
+    width: 142px;
+    height: 35px;
+    margin-right: 22px;
+    border-radius: 4px;
+    color: white;
+    background-color: rgba(161, 94, 185, 1);
+    border: none;
+}
+.cancel-button {
+    font-family: Arial;
+    width: 142px;
+    height: 35px;
+    margin-left: 22px;
+    border-radius: 4px;
+    color: white;
+    background-color: rgba(129, 129, 129, 1);
+    border: none;
+}
+
+.h2 {
+    text-align:left;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    font-size: 10px;
+    color: rgba(133, 0, 180, 1);
+}
+
+.p {
+    color: gray;
+    text-align:left;
+    margin-bottom: 30px;
+    margin-left: 40px;
+}
